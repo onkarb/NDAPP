@@ -8,8 +8,8 @@ This application developed in node js. The main reason behind to develop this ap
 
 Not anything else....
 
+
 Used:
 
-Node
-database: Mongo DB
+Node and MongoDB
  

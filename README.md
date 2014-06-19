@@ -11,7 +11,7 @@ Not anything else....
 
 Used:
 
-Node js
+Node js,
 Express js,
 MongoDB.
  
